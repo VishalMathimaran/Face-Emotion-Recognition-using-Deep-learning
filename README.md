@@ -4,11 +4,13 @@ Face emotion recognition is one of the applications of a convolution neural netw
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install necessary packages.
+Use the package manager [pip3](https://pip.pypa.io/en/stable/) to install necessary packages.
 
 ```bash
-pip3 install jupyter
 pip3 install numpy
+pip3 install scipy
+pip3 install sklearn
+pip3 install jupyter
 pip3 install opencv
 pip3 install keras
 ```
